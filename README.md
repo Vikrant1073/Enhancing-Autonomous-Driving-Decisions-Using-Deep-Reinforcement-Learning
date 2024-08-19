@@ -1,7 +1,7 @@
 
 # Enhancing Autonomous Driving Decisions Using Deep Reinforcement Learning
 
-This document provides a comprehensive explanation of the entire directory structure of the Project, including the purpose of each folder and file within the project. This should give you a clear understanding of how everything works together.
+This document provides a comprehensive explanation of the entire directory structure of the Project, including the purpose of each folder and file within the project. This should provide a clear understanding of how everything works together.
 
 -------------------------------------------------------------------------
 
