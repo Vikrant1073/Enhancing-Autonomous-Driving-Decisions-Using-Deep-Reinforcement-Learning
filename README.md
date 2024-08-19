@@ -114,5 +114,6 @@ The `CUDA_path/` file tests the CUDA availability and prints out its version, us
 
 # References
 
-## Airsim repository: [Link](https://github.com/microsoft/AirSim).
-## Neighbourhood City Environment: [Link](https://github.com/microsoft/AirSim/releases/tag/v1.8.1-windows)
+## [Airsim repository](https://github.com/microsoft/AirSim): Used to run simulations.
+## [Neighbourhood City Environment](https://github.com/microsoft/AirSim/releases/tag/v1.8.1-windows): Used this binary of airsim to generate city based environment to test the vehicle's performance.
+## [Stable-baseline3 for DQN](https://github.com/DLR-RM/stable-baselines3/tree/master/stable_baselines3): Helps creating a base structure for both (DQN and PPO) Reinforcement Learning models used.
