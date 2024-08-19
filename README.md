@@ -83,7 +83,9 @@ To run the project:
 
 During training, TensorBoard will monitor the progress of your models by visualising metrics like rewards, episode lengths, and more. While, eval callbacks will provide further evaluations periodically.
 
-# Appendix Directories
+-------------------------------------------------------------------------
+
+# Appendix
 
 ## 1. `logs/` Directory
 
