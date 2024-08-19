@@ -1,0 +1,23 @@
+## Text document which defines all the required libraries that were used to create the thesis.
+
+# Core Libraries
+numpy==1.21.2
+pandas==1.3.3
+Pillow==8.3.2  # For image processing
+
+# PyTorch (with CUDA 11.7 support)
+torch==1.10.2
+torchvision==0.11.3
+
+# Reinforcement Learning Libraries
+stable-baselines3==1.1.0
+gym==0.21.0
+
+# OpenCV for Camera Image Processing
+opencv-python==4.5.3.56  # For image capture and processing with AirSim
+
+# Logging and Monitoring
+tensorboard==2.6.0
+
+# To install AirSim from GitHub using Git command (need git installed)
+# git+https://github.com/microsoft/AirSim.git
