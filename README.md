@@ -81,7 +81,7 @@ To run the project:
 - Choose the appropriate script (like `run_dqn.py` for training a DQN model).
 - Run the script to start the training process, with TensorBoard logging and evaluation callbacks enabled.
 
-During training, TensorBoard will monitor the progress of your models by visualising metrics like rewards, episode lengths, and more. While, eval callbacks will provide further evaluations periodically.
+During training, TensorBoard will monitor the progress of the models by visualising metrics like rewards, episode lengths, and more. While, eval callbacks will provide further evaluations periodically.
 
 -------------------------------------------------------------------------
 
