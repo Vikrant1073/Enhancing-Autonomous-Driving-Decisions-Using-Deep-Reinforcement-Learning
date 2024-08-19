@@ -83,5 +83,30 @@ To run the project:
 
 During training, TensorBoard will monitor the progress of your models by visualising metrics like rewards, episode lengths, and more. While, eval callbacks will provide further evaluations periodically.
 
+# Appendix Directories
+
+## 1. `logs/` Directory
+
+Purpose: 
+The `logs/` directory contains the tensorflow logs, evaluation trackings logs and best models for some runs saved.
+
+Files:
+All four models' log files for a run of 20,000 episodes
+
+## 2. `debug_image/` Directory
+
+Purpose:
+The `debug_images/` directory contains the first image of each episode in a run as to understand the correctness of the image captured.
+
+## 3. `setup_path/` file
+
+Purpose:
+The `setup_path/` file helps find AirSim installation on the device. this file has been directly imported from the AirSim's Reinforcement Learning package. Available [here](https://github.com/microsoft/AirSim/blob/main/PythonClient/reinforcement_learning/setup_path.py).
+
+## 4. `CUDA_test/` file
+
+Purpose:
+The `CUDA_path/` file tests the CUDA availability and prints out its version, used here to install supported CuDNN files built to enhance Deep Neural Network's performance.
+
 -------------------------------------------------------------------------
 
