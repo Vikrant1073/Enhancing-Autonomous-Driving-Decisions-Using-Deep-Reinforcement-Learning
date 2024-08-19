@@ -112,3 +112,7 @@ The `CUDA_path/` file tests the CUDA availability and prints out its version, us
 
 -------------------------------------------------------------------------
 
+# References
+
+## Airsim: [https://github.com/microsoft/AirSim](https://github.com/microsoft/AirSim).
+
